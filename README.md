@@ -29,6 +29,19 @@ farmers in Zimbabwe.
 
 ---
 
+## Research
+
+**The Accountability Void in Algorithmic Lending: Model Opacity, Explainability,
+and Structural Governance Gaps**  
+MSc Capstone · George Washington University · 2026  
+Supervised by Prof. Dianne C. Martin (Professor Emeritus, CS & AI Ethics)  
+Examines governance failures in algorithmic credit scoring through the lens of
+explainability frameworks and regulatory design gaps, with implications for
+U.S. financial services and emerging markets.  
+`[Working paper — available on request]`
+
+---
+
 ## Featured projects
 
 | Project | Description | Stack |
